@@ -1,0 +1,27 @@
+{
+  "name": "programa",
+  "version": "1.0.0",
+  "description": "getting started with git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEVPROGRAMMER/programA.git"
+  },
+  "author": "LEVPROGRAMMER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LEVPROGRAMMER/programA/issues"
+  },
+  "homepage": "https://github.com/LEVPROGRAMMER/programA#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.2",
+    "express": "^5.1.0",
+    "ts-node": "^10.9.2"
+  }
+}
